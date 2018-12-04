@@ -1,0 +1,23 @@
+PODS:
+  - CropViewController (2.3.7)
+  - IQKeyboardManagerSwift (6.1.1)
+  - Realm (3.7.5):
+    - Realm/Headers (= 3.7.5)
+  - Realm/Headers (3.7.5)
+  - RealmSwift (3.7.5):
+    - Realm (= 3.7.5)
+
+DEPENDENCIES:
+  - CropViewController
+  - IQKeyboardManagerSwift
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  CropViewController: a9d579b526926c4e1caf754a89a9ac1c20aaa8eb
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  Realm: c286caf4dbf346ce24aad49ca76c7ce622d4a082
+  RealmSwift: 2a9281e37d6de55f66f76254d49d28aeb1b729e4
+
+PODFILE CHECKSUM: b140dfb9ce6954c72f632b9944cb04fd56b3dc0d
+
+COCOAPODS: 1.4.0
